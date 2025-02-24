@@ -6,7 +6,7 @@ A vibrant and engaging arcade-style game where players navigate a bouncing candy
 
 **Preview 👀**
 ----------
-💡**Objective**: Explore and understand procedural generation techniques and their application in creating visually stunning 3D planets.
+💡**Objective**: Create a fast-paced, arcade-style jumping game with responsive controls and dynamic obstacle challenges.
 
 ![Image](https://github.com/user-attachments/assets/2ab2dc62-7875-49e4-ae22-56e4408ce9d3)
 ![Image](https://github.com/user-attachments/assets/f14260a1-6621-497b-bb72-857b1ceb364f)
